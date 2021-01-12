@@ -1,10 +1,6 @@
 <h1 align="center"> Yo 🤘 </h1>
 
-<!--
-**cloudy3/cloudy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🌱 Still figuring out how to use Github
+🌱 Still figuring out how to use Github
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudy3&color=red&label=Profile+Views+:(" alt="cloudy3" /> </p>
 
