@@ -1,4 +1,6 @@
-<h1 align="center"> Yo 🤘 </h1>
+![cloudy3 Github Banner](./Github_Banner.svg)
+
+<h1 align="center"> ___ </h1>
 
 🌱 Still figuring out how to use Github
 
