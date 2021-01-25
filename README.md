@@ -1,4 +1,4 @@
-![cloudy3 Github Banner](./Github_Banner.svg)
+[![cloudy3 Github Banner](./Github_Banner.svg)](https://www.linkedin.com/in/jingfeng-cheah/)
 
 <h1 align="center"> ___ </h1>
 
