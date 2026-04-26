@@ -12,32 +12,66 @@ I'm a software engineer on the internal engineering team at **Schulte Group** (B
 <h3 align="left">Languages & tools</h3>
 
 <h4 align="left">Mobile & desktop</h4>
-<p align="left"><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a> <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" /></a></p>
+<table><tr>
+<td align="center"><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a></td>
+<td align="center"><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" /></a></td>
+</tr></table>
 
 <h4 align="left">Web</h4>
-<p align="left"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a> <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a></p>
+<table><tr>
+<td align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a></td>
+<td align="center"><a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a></td>
+<td align="center"><a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="40" height="40" /></a></td>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a></td>
+<td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a></td>
+</tr></table>
 
 <h4 align="left">Backend & languages</h4>
-<p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a> <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40" /></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a></p>
+<table><tr>
+<td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a></td>
+<td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a></td>
+</tr></table>
 
 <h4 align="left">Data & notebooks</h4>
-<p align="left"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40" /></a></p>
+<table><tr>
+<td align="center"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" /></a></td>
+<td align="center"><a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40" /></a></td>
+</tr></table>
 
 <h4 align="left">Cloud & Firebase</h4>
-<p align="left"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a> <a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Cloud Firestore" height="40" /></a> <a href="https://cloud.google.com/build" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Build" height="40" /></a></p>
+<table><tr>
+<td align="center"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud Platform" width="40" height="40" /></a></td>
+<td align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a></td>
+<td align="center"><a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cloud_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Cloud Firestore" height="40" /></a></td>
+<td align="center"><a href="https://cloud.google.com/build" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cloud_Build-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Build" height="40" /></a></td>
+</tr></table>
 
 <h4 align="left">DevOps & quality</h4>
-<p align="left"><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" alt="GitHub Actions" width="40" height="40" /></a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40" /></a></p>
+<table><tr>
+<td align="center"><a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a></td>
+<td align="center"><a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-plain.svg" alt="GitHub Actions" width="40" height="40" /></a></td>
+<td align="center"><a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg" alt="Mocha" width="40" height="40" /></a></td>
+</tr></table>
 
 <h4 align="left">AI & LLMs</h4>
-<p align="left"><a href="https://platform.openai.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="40" height="40" /></a> <a href="https://ai.google.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="40" height="40" /></a></p>
+<table><tr>
+<td align="center"><a href="https://platform.openai.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9.17.0/icons/openai.svg" alt="OpenAI" width="40" height="40" /></a></td>
+<td align="center"><a href="https://ai.google.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Google Gemini" width="40" height="40" /></a></td>
+</tr></table>
 
 <h4 align="left">Design</h4>
-<p align="left"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a></p>
+<table><tr>
+<td align="center"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" /></a></td>
+</tr></table>
 
-<p align="left">
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/REST-APIs-005571?style=flat-square" alt="REST APIs" /></a>
-</p>
+<table><tr>
+<td align="left"><a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/REST-APIs-005571?style=flat-square" alt="REST APIs" /></a></td>
+</tr></table>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cloudy3&show_icons=true&locale=en&count_private=true&hide=stars&theme=tokyonight" alt="GitHub stats for cloudy3" /></p>
 
